@@ -1,0 +1,5 @@
+aiogram==3.25.0
+aiosqlite==0.22.1
+python-dotenv==1.2.1
+huggingface_hub==1.4.1
+SQLAlchemy==2.0.46
